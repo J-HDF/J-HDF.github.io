@@ -1,5 +1,27 @@
 [
   {
+    "cv_number": null,
+    "year": 2026,
+    "title": "Uniqueness and radial symmetry of magnetic skyrmions",
+    "authors": "Giovanni Di Fratta, Cyrill B. Muratov, Theresa M. Simon, Valeriy V. Slastikov",
+    "venue": "Preprint",
+    "type": "preprint",
+    "doi": "10.48550/arXiv.2611.02141",
+    "rg": "https://www.researchgate.net/publication/417412152_Uniqueness_and_radial_symmetry_of_magnetic_skyrmions",
+    "topic": "magnetic skyrmions topological solitons calibrations null Lagrangians radial symmetry uniqueness"
+  },
+  {
+    "cv_number": null,
+    "year": 2026,
+    "title": "A fractional modular Poincaré--Wirtinger-type inequality in Sobolev spaces with variable exponents",
+    "authors": "Giovanni Di Fratta, Alberto Fiorenza, Leon Happ",
+    "venue": "Preprint",
+    "type": "preprint",
+    "doi": "10.48550/arXiv.2610.36293",
+    "rg": null,
+    "topic": "fractional modular Poincaré-Wirtinger inequality Sobolev spaces variable exponents"
+  }
+  {
     "cv_number": 4,
     "year": 2026,
     "title": "Magnetoelastic actuated motion of fine ferromagnetic particles",
